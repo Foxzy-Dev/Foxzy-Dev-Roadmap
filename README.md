@@ -1,6 +1,7 @@
 # Foxzy-Dev-Roadmap
 Terve! I'm Foxzy
 This repository contains my learning goals, progress, and future plans.
+
 Tämä repositorio sisältää oppimistavoitteeni, edistymiseni ja tulevaisuuden suunnitelmani.
 
 About Me:
